@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AldenStripes
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java and a couple C languages
+- 🌱 I’m currently learning java and C++
 - 💞️ Looking to collaborate with you on anything
 - 📫 How to reach me: aldenstripes@gmail.com
 - My DMOJ Account: https://dmoj.ca/user/aldenstripes 
