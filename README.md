@@ -5,4 +5,4 @@ Hi, I'm Alden, I do CP in C++ & Java. I also do web dev (HTML & CSS, JavaScript,
 - 🖥️ My **DMOJ** Account: https://dmoj.ca/user/aldenstripes
 - 🚀 My **Devpost**: https://devpost.com/aldenstripes
 - 💞️ Looking to collaborate on websites, games, hackathons, competitions, etc.
-- 📫 How to reach me: aldentianwang@gmail.com
+- 📫 How to reach me: aldenstripes@gmail.com
